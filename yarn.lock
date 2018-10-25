@@ -1611,6 +1611,17 @@ breakable@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/breakable/-/breakable-1.0.0.tgz#784a797915a38ead27bad456b5572cb4bbaa78c1"
   integrity sha1-eEp5eRWjjq0nutRWtVcstLuqeME=
+<<<<<<< HEAD
+=======
+
+broccoli-amd-funnel@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/broccoli-amd-funnel/-/broccoli-amd-funnel-1.3.0.tgz#c4426b4fce976e44295bd74f34725f53bdeb08e3"
+  integrity sha512-QLjCWblDW//a/5/ivDikVPRHiA+d/1K45meHZA6lAlpHC1c216rcZQYpdlo9PiOJiI4T3tKqDaaM1CDeFDCoVQ==
+  dependencies:
+    broccoli-plugin "^1.3.0"
+    symlink-or-copy "^1.2.0"
+>>>>>>> Implementation of the new component review-warning
 
 broccoli-asset-rev@^2.4.5:
   version "2.6.0"
@@ -1978,6 +1989,28 @@ broccoli-middleware@^1.0.0:
     handlebars "^4.0.4"
     mime-types "^2.1.18"
 
+<<<<<<< HEAD
+=======
+broccoli-module-normalizer@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/broccoli-module-normalizer/-/broccoli-module-normalizer-1.3.0.tgz#f9982d9cbb776b4ed754161cc6547784d3eb19de"
+  integrity sha512-0idZCOtdVG6xXoQ36Psc1ApMCr3lW5DB+WEAOEwHcUoESIBHzwcRPQTxheGIjZ5o0hxpsRYAUH5x0ErtNezbrQ==
+  dependencies:
+    broccoli-plugin "^1.3.0"
+    merge-trees "^1.0.1"
+    rimraf "^2.6.2"
+    symlink-or-copy "^1.1.8"
+
+broccoli-module-unification-reexporter@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/broccoli-module-unification-reexporter/-/broccoli-module-unification-reexporter-1.0.0.tgz#031909c5d3f159ec11d5f9e2346f2861db8acb3e"
+  integrity sha512-HTi9ua520M20aBZomaiBopsSt3yjL7J/paR3XPjieygK7+ShATBiZdn0B+ZPiniBi4I8JuMn1q0fNFUevtP//A==
+  dependencies:
+    broccoli-plugin "^1.3.0"
+    mkdirp "^0.5.1"
+    walk-sync "^0.3.2"
+
+>>>>>>> Implementation of the new component review-warning
 broccoli-persistent-filter@1.4.2:
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/broccoli-persistent-filter/-/broccoli-persistent-filter-1.4.2.tgz#17af1278a25ff2556f9d7d23e115accfad3a7ce7"
@@ -2524,6 +2557,14 @@ chownr@^1.0.1, chownr@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.0.1.tgz#e2a75042a9551908bebd25b8523d5f9769d79181"
   integrity sha1-4qdQQqlVGQi+vSW4Uj1fl2nXkYE=
+<<<<<<< HEAD
+=======
+
+ci-info@^1.1.2:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-1.1.3.tgz#710193264bb05c77b8c90d02f5aaf22216a667b2"
+  integrity sha512-SK/846h/Rcy8q9Z9CAwGBLfCJ6EkjJWdpelWDufQpqVDYq2Wnnv8zlSO6AMQap02jvhVruKKpEtQOufo3pFhLg==
+>>>>>>> Implementation of the new component review-warning
 
 circular-json@^0.3.1:
   version "0.3.3"
@@ -2585,6 +2626,7 @@ cli-spinners@^1.1.0:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/cli-spinners/-/cli-spinners-1.3.1.tgz#002c1990912d0d59580c93bd36c056de99e4259a"
   integrity sha512-1QL4544moEsDVH9T/l6Cemov/37iv1RtoKf7NJ04A60+4MREXNfx/QvavbH6QoGdsD4N4Mwy49cmaINR/o2mdg==
+<<<<<<< HEAD
 
 cli-table2@^0.2.0:
   version "0.2.0"
@@ -2595,6 +2637,8 @@ cli-table2@^0.2.0:
     string-width "^1.0.1"
   optionalDependencies:
     colors "^1.1.2"
+=======
+>>>>>>> Implementation of the new component review-warning
 
 cli-table@^0.3.1:
   version "0.3.1"
@@ -2720,11 +2764,14 @@ colors@1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/colors/-/colors-1.0.3.tgz#0433f44d809680fdeb60ed260f1b0c262e82a40b"
   integrity sha1-BDP0TYCWgP3rYO0mDxsMJi6CpAs=
+<<<<<<< HEAD
 
 colors@^1.1.2:
   version "1.3.2"
   resolved "https://registry.yarnpkg.com/colors/-/colors-1.3.2.tgz#2df8ff573dfbf255af562f8ce7181d6b971a359b"
   integrity sha512-rhP0JSBGYvpcNQj4s5AdShMeE5ahMop96cTeDl/v9qQQm2fYClE2QXZRi8wLzc+GmXSxdIqqbOIAhyObEXDbfQ==
+=======
+>>>>>>> Implementation of the new component review-warning
 
 columnify@~1.5.4:
   version "1.5.4"
@@ -2925,11 +2972,14 @@ core-js@^2.4.0, core-js@^2.5.0:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.5.1.tgz#ae6874dc66937789b80754ff5428df66819ca50b"
   integrity sha1-rmh03GaTd4m4B1T/VCjfZoGcpQs=
+<<<<<<< HEAD
 
 core-object@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/core-object/-/core-object-1.1.0.tgz#86d63918733cf9da1a5aae729e62c0a88e66ad0a"
   integrity sha1-htY5GHM8+doaWq5ynmLAqI5mrQo=
+=======
+>>>>>>> Implementation of the new component review-warning
 
 core-object@^3.1.3:
   version "3.1.5"
@@ -3176,6 +3226,7 @@ destroy@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
   integrity sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
+<<<<<<< HEAD
 
 detect-file@^0.1.0:
   version "0.1.0"
@@ -3183,6 +3234,8 @@ detect-file@^0.1.0:
   integrity sha1-STXe39lIhkjgBrASlWbpOGcR6mM=
   dependencies:
     fs-exists-sync "^0.1.0"
+=======
+>>>>>>> Implementation of the new component review-warning
 
 detect-indent@^3.0.0:
   version "3.0.1"
@@ -3362,10 +3415,17 @@ ember-changeset-validations@1.2.6:
     ember-cli-htmlbars "^1.0.3"
     ember-cli-htmlbars-inline-precompile "^0.3.3"
 
+<<<<<<< HEAD
 ember-changeset-validations@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/ember-changeset-validations/-/ember-changeset-validations-1.3.1.tgz#713c232321862a3c1dfcb41263dfe6f930bd0c40"
   integrity sha512-OZHfPmEt7lUfvlajFgt6V9D+p0Q8SRtezw3E++j0y98iprbT9vzAPexsGooqqhvkazQci7jwpbXkHqbUD044rA==
+=======
+ember-changeset-validations@^1.2.8:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/ember-changeset-validations/-/ember-changeset-validations-1.2.8.tgz#80c14fac5ee35dfff3538e6e9bc905c0686e193c"
+  integrity sha512-OJ9MpveBS77g60OSJQ812HnaIapzfzezBUI2/kjQ+Xo0fmPMUstlt1ylcejjy0BZ9V3KNRMGUbeBLBNm0BMp+Q==
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     ember-changeset "1.5.0"
     ember-cli-babel "^6.6.0"
@@ -3574,11 +3634,14 @@ ember-cli-get-component-path-option@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-get-component-path-option/-/ember-cli-get-component-path-option-1.0.0.tgz#0d7b595559e2f9050abed804f1d8eff1b08bc771"
   integrity sha1-DXtZVVni+QUKvtgE8djv8bCLx3E=
+<<<<<<< HEAD
 
 ember-cli-get-dependency-depth@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-get-dependency-depth/-/ember-cli-get-dependency-depth-1.0.0.tgz#e0afecf82a2d52f00f28ab468295281aec368d11"
   integrity sha1-4K/s+CotUvAPKKtGgpUoGuw2jRE=
+=======
+>>>>>>> Implementation of the new component review-warning
 
 ember-cli-htmlbars-inline-precompile@^0.3.3:
   version "0.3.13"
@@ -3660,6 +3723,7 @@ ember-cli-is-package-missing@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-is-package-missing/-/ember-cli-is-package-missing-1.0.0.tgz#6e6184cafb92635dd93ca6c946b104292d4e3390"
   integrity sha1-bmGEyvuSY13ZPKbJRrEEKS1OM5A=
+<<<<<<< HEAD
 
 ember-cli-legacy-blueprints@^0.2.0:
   version "0.2.1"
@@ -3683,6 +3747,8 @@ ember-cli-legacy-blueprints@^0.2.0:
     inflection "^1.7.1"
     rsvp "^4.7.0"
     silent-error "^1.0.0"
+=======
+>>>>>>> Implementation of the new component review-warning
 
 ember-cli-lodash-subset@^1.0.7:
   version "1.0.12"
@@ -3920,10 +3986,17 @@ ember-cli-version-checker@^2.1.2:
     resolve "^1.3.3"
     semver "^5.3.0"
 
+<<<<<<< HEAD
 ember-cli@~2.18.0:
   version "2.18.2"
   resolved "https://registry.yarnpkg.com/ember-cli/-/ember-cli-2.18.2.tgz#bb15313a15139a85248a86d203643f918ba40f57"
   integrity sha1-uxUxOhUTmoUkiobSA2Q/kYukD1c=
+=======
+ember-cli@^3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/ember-cli/-/ember-cli-3.3.0.tgz#534ebe72453a4fb064a34077a0874ad69ea84be4"
+  integrity sha512-Iu4mOp2a3tTV+xh305XZUbZZwKjxGsdfF3yCxQ4fmtWl8B46iERyk3BJ4/ylHtmeBUiCsff4hFRJHxI9Ke/0kg==
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     amd-name-resolver "1.0.0"
     babel-plugin-transform-es2015-modules-amd "^6.24.0"
@@ -4056,6 +4129,17 @@ ember-composable-helpers@^2.0.3:
     broccoli-funnel "^1.0.1"
     ember-cli-babel "^6.1.0"
 
+<<<<<<< HEAD
+=======
+ember-computed-decorators@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/ember-computed-decorators/-/ember-computed-decorators-0.3.0.tgz#42348ae214f464d266a85101e31e67e50bbbd39f"
+  integrity sha1-QjSK4hT0ZNJmqFEB4x5n5Qu7058=
+  dependencies:
+    ember-cli-babel "^5.1.7"
+    ember-macro-helpers "0.6.1"
+
+>>>>>>> Implementation of the new component review-warning
 ember-concurrency@^0.8.1:
   version "0.8.11"
   resolved "https://registry.yarnpkg.com/ember-concurrency/-/ember-concurrency-0.8.11.tgz#a989203d1fa5c5b02d562a03adb4b9d47e0b4583"
@@ -4093,10 +4177,17 @@ ember-cookies@^0.0.13:
     ember-cli-babel "^5.1.7"
     ember-getowner-polyfill "^1.2.2"
 
+<<<<<<< HEAD
 ember-data@~2.18.0:
   version "2.18.5"
   resolved "https://registry.yarnpkg.com/ember-data/-/ember-data-2.18.5.tgz#cb6509161883db7be3a0859349142f664bb83495"
   integrity sha512-WWZVIaMESZ+RgGOW6AsmuuJdKhmbWZMpGoLfZDHmypK45X5Fg7lKG6kJeqrzB/Ilg8r5KlyEpteDBiYXQshSQQ==
+=======
+ember-data@~2.17.0:
+  version "2.17.0"
+  resolved "https://registry.yarnpkg.com/ember-data/-/ember-data-2.17.0.tgz#d952cf98d7461abf41ed6d248cf2a5836c623276"
+  integrity sha512-7YhaCfL/4qBKCu03grOoWt4zqaVUD4jjsCH/zRVtNqnGV6QL8MoJKBIUx6L8f/78dhSTLK/A3Ksf+lXQ9fXYew==
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     amd-name-resolver "0.0.7"
     babel-plugin-ember-modules-api-polyfill "^1.4.2"
@@ -4301,6 +4392,16 @@ ember-lodash@^4.17.3:
     ember-cli-babel "^6.4.1"
     lodash-es "^4.17.4"
 
+<<<<<<< HEAD
+=======
+ember-macro-helpers@0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/ember-macro-helpers/-/ember-macro-helpers-0.6.1.tgz#af0f22391851d9d0788f002deaf5359e31641c8a"
+  integrity sha1-rw8iORhR2dB4jwAt6vU1njFkHIo=
+  dependencies:
+    ember-cli-babel "^5.1.7"
+
+>>>>>>> Implementation of the new component review-warning
 ember-macro-helpers@^0.17.0:
   version "0.17.0"
   resolved "https://registry.yarnpkg.com/ember-macro-helpers/-/ember-macro-helpers-0.17.0.tgz#5e64a49f476e38c1916aff75f949455533cd1abe"
@@ -4460,10 +4561,17 @@ ember-raf-scheduler@0.1.0:
   dependencies:
     ember-cli-babel "^6.6.0"
 
+<<<<<<< HEAD
 ember-require-module@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/ember-require-module/-/ember-require-module-0.2.0.tgz#eafe436737ead4762220a9166b78364abf754274"
   integrity sha512-groO9qBniJPjG1Z/wMZAYvZxhUR86iL+9wSncTDM7kL+WtdgbrcUXwazStIQOv3GeuqJ9rVt1gWKXvHlfWXUMg==
+=======
+ember-require-module@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/ember-require-module/-/ember-require-module-0.1.2.tgz#fdffdcf86745d601009211c1b41907395a4d081e"
+  integrity sha1-/f/c+GdF1gEAkhHBtBkHOVpNCB4=
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     ember-cli-babel "^6.9.2"
 
@@ -4497,11 +4605,14 @@ ember-rfc176-data@^0.3.0:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/ember-rfc176-data/-/ember-rfc176-data-0.3.1.tgz#6a5a4b8b82ec3af34f3010965fa96b936ca94519"
   integrity sha512-u+W5rUvYO7xyKJjiPuCM7bIAvFyPwPTJ66fOZz1xuCv3AyReI9Oev5oOADOO6YJZk+vEn0xWiZ9N6zSf8WU7Fg==
+<<<<<<< HEAD
 
 ember-rfc176-data@^0.3.5:
   version "0.3.5"
   resolved "https://registry.yarnpkg.com/ember-rfc176-data/-/ember-rfc176-data-0.3.5.tgz#f630e550572c81a5e5c7220f864c0f06eee9e977"
   integrity sha512-5NfL1iTkIQDYs16/IZ7/jWCEglNsUrigLelBkBMsNcib9T3XzQwmhhVTjoSsk66s57LmWJ1bQu+2c1CAyYCV7A==
+=======
+>>>>>>> Implementation of the new component review-warning
 
 ember-route-action-helper@^2.0.6:
   version "2.0.6"
@@ -4572,10 +4683,17 @@ ember-site-tour@^1.1.0:
     hopscotch "~0.3.1"
     lodash.merge "^4.3.5"
 
+<<<<<<< HEAD
 ember-source@~2.18.0:
   version "2.18.2"
   resolved "http://registry.npmjs.org/ember-source/-/ember-source-2.18.2.tgz#75d00eef5488bfe504044b025c752ba924eaf87f"
   integrity sha1-ddAO71SIv+UEBEsCXHUrqSTq+H8=
+=======
+ember-source@^2.16.0:
+  version "2.16.2"
+  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-2.16.2.tgz#ebc29ce36dec3ecc80f6b1b02218d63ca5041088"
+  integrity sha1-68Kc423sPsyA9rGwIhjWPKUEEIg=
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     broccoli-funnel "^2.0.1"
     broccoli-merge-trees "^2.0.0"
@@ -4683,10 +4801,17 @@ ember-validated-form@^0.6.0:
     ember-one-way-controls "1.1.2"
     ember-truth-helpers "1.2.0"
 
+<<<<<<< HEAD
 ember-validators@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/ember-validators/-/ember-validators-1.2.0.tgz#b4bc9aeaf97921d80c41b7dc21acca288d1216ae"
   integrity sha1-tLya6vl5IdgMQbfcIazKKI0SFq4=
+=======
+ember-validators@^1.0.0:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/ember-validators/-/ember-validators-1.0.3.tgz#cef76b6526d12011ab685238762e3256dad812b4"
+  integrity sha1-zvdrZSbRIBGraFI4di4yVtrYErQ=
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     ember-cli-babel "^6.9.2"
     ember-require-module "^0.2.0"
@@ -4721,6 +4846,7 @@ encodeurl@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-1.0.1.tgz#79e3d58655346909fe6f0f45a5de68103b294d20"
   integrity sha1-eePVhlU0aQn+bw9Fpd5oEDspTSA=
+<<<<<<< HEAD
 
 encoding@^0.1.11:
   version "0.1.12"
@@ -4735,6 +4861,8 @@ end-of-stream@^1.1.0:
   integrity sha512-1MkrZNvWTKCaigbn+W15elq2BB/L22nqrSY5DKlo3X6+vclJm8Bb5djXJBmEX6fS3+zCh/F4VBK5Z2KxJt4s2Q==
   dependencies:
     once "^1.4.0"
+=======
+>>>>>>> Implementation of the new component review-warning
 
 engine.io-client@~3.2.0:
   version "3.2.1"
@@ -5080,10 +5208,17 @@ exec-sh@^0.2.0:
   dependencies:
     merge "^1.1.3"
 
+<<<<<<< HEAD
 execa@^0.8.0:
   version "0.8.0"
   resolved "https://registry.yarnpkg.com/execa/-/execa-0.8.0.tgz#d8d76bbc1b55217ed190fd6dd49d3c774ecfc8da"
   integrity sha1-2NdrvBtVIX7RkP1t1J08d07PyNo=
+=======
+execa@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-0.10.0.tgz#ff456a8f53f90f8eccc71a96d11bdfc7f082cb50"
+  integrity sha512-7XOMnz8Ynx1gGo/3hyV9loYNPWM94jG3+3T3Y8tsfSstFmETmENCMU/A/zj8Lyaj1lkgEepKepvd6240tBRvlw==
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     cross-spawn "^5.0.1"
     get-stream "^3.0.0"
@@ -5512,11 +5647,14 @@ fresh@0.5.2:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
   integrity sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
+<<<<<<< HEAD
 
 fs-exists-sync@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/fs-exists-sync/-/fs-exists-sync-0.1.0.tgz#982d6893af918e72d08dec9e8673ff2b5a8d6add"
   integrity sha1-mC1ok6+RjnLQjeyehnP/K1qNat0=
+=======
+>>>>>>> Implementation of the new component review-warning
 
 fs-extra@^0.24.0:
   version "0.24.0"
@@ -5567,10 +5705,35 @@ fs-extra@^2.0.0:
     graceful-fs "^4.1.2"
     jsonfile "^2.1.0"
 
+<<<<<<< HEAD
 fs-extra@^4.0.0, fs-extra@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-4.0.3.tgz#0d852122e5bc5beb453fb028e9c0c9bf36340c94"
   integrity sha512-q6rbdDd1o2mAnQreO7YADIxf/Whx4AHBiRf6d+/cVT8h44ss+lHgxf1FemcqDnQt9X3ct4McHr+JMGlYSsK7Cg==
+=======
+fs-extra@^4.0.1:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-4.0.2.tgz#f91704c53d1b461f893452b0c307d9997647ab6b"
+  integrity sha1-+RcExT0bRh+JNFKwwwfZmXZHq2s=
+  dependencies:
+    graceful-fs "^4.1.2"
+    jsonfile "^4.0.0"
+    universalify "^0.1.0"
+
+fs-extra@^4.0.2, fs-extra@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-4.0.3.tgz#0d852122e5bc5beb453fb028e9c0c9bf36340c94"
+  integrity sha512-q6rbdDd1o2mAnQreO7YADIxf/Whx4AHBiRf6d+/cVT8h44ss+lHgxf1FemcqDnQt9X3ct4McHr+JMGlYSsK7Cg==
+  dependencies:
+    graceful-fs "^4.1.2"
+    jsonfile "^4.0.0"
+    universalify "^0.1.0"
+
+fs-extra@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-5.0.0.tgz#414d0110cdd06705734d055652c5411260c31abd"
+  integrity sha512-66Pm4RYbjzdyeuqudYqhFiNBbCIuI9kgRqLPSHIlXHidW8NIQtVdkM1yeZ4lXwuhbTETv3EUGMNHAAw6hiundQ==
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     graceful-fs "^4.1.2"
     jsonfile "^4.0.0"
@@ -5758,6 +5921,7 @@ get-stream@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
   integrity sha1-jpQ9E1jcN1VQVOy+LtsFqhdO3hQ=
+<<<<<<< HEAD
 
 get-stream@^4.0.0:
   version "4.0.0"
@@ -5765,6 +5929,8 @@ get-stream@^4.0.0:
   integrity sha512-FneLKMENeOR7wOK0/ZXCh+lwqtnPwkeunJjRN28LPqzGvNAhYvrTAhXv6xDm4vsJ0M7lcRbIYHQudKsSy2RtSQ==
   dependencies:
     pump "^3.0.0"
+=======
+>>>>>>> Implementation of the new component review-warning
 
 get-value@^2.0.3, get-value@^2.0.6:
   version "2.0.6"
@@ -5782,6 +5948,14 @@ git-repo-info@^1.1.2, git-repo-info@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/git-repo-info/-/git-repo-info-1.4.1.tgz#2a072823254aaf62fcf0766007d7b6651bd41943"
   integrity sha1-KgcoIyVKr2L88HZgB9e2ZRvUGUM=
+<<<<<<< HEAD
+=======
+
+git-repo-info@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/git-repo-info/-/git-repo-info-2.0.0.tgz#2e7a68ba3d0253e8e885c4138f922e6561de59bb"
+  integrity sha512-5wiwo0Pert7y8YtAC6Gym+ekeKojBospUEaQIPjK/djKvmONk7ZDpM986Q2OP5LEuwlmOom9Ji0XsGe78EFBeQ==
+>>>>>>> Implementation of the new component review-warning
 
 git-repo-info@~1.2.0:
   version "1.2.0"
@@ -6106,10 +6280,17 @@ hawk@~6.0.2:
     hoek "4.x.x"
     sntp "2.x.x"
 
+<<<<<<< HEAD
 heimdalljs-fs-monitor@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/heimdalljs-fs-monitor/-/heimdalljs-fs-monitor-0.1.1.tgz#acaf5ebf7137bc2fc98e811e31ae4b121c3a75a3"
   integrity sha512-ZGBhHnA8av9fUwJNscuRXkAHC/T4a3glLDrv/vT973J8Yk0QHGzK/4vpnky9u+t4au3ogI9SWBk45ydk4F9iuw==
+=======
+heimdalljs-fs-monitor@^0.2.0:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/heimdalljs-fs-monitor/-/heimdalljs-fs-monitor-0.2.1.tgz#b4079cfb85fb8326b8c75a7538fdbfa3d8afaa63"
+  integrity sha1-tAec+4X7gya4x1p1OP2/o9ivqmM=
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     heimdalljs "^0.2.0"
     heimdalljs-logger "^0.1.7"
@@ -6244,6 +6425,7 @@ iconv-lite@^0.4.4:
   version "0.4.23"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.23.tgz#297871f63be507adcfbfca715d0cd0eed84e9a63"
   integrity sha512-neyTUVFtahjf0mB3dZT77u+8O0QB89jFdnBkd5P1JgYPbPaia3gXXOVL2fq8VyU2gMMD7SaN7QukTB/pmXYvDA==
+<<<<<<< HEAD
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
@@ -6251,6 +6433,8 @@ iconv-lite@~0.4.13:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
   integrity sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA==
+=======
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
@@ -6661,11 +6845,14 @@ is-utf8@^0.2.0:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/is-utf8/-/is-utf8-0.2.1.tgz#4b0da1442104d1b336340e80797e865cf39f7d72"
   integrity sha1-Sw2hRCEE0bM2NA6AeX6GXPOffXI=
+<<<<<<< HEAD
 
 is-windows@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/is-windows/-/is-windows-0.2.0.tgz#de1aa6d63ea29dd248737b69f1ff8b8002d2108c"
   integrity sha1-3hqm1j6indJIc3tp8f+LgALSEIw=
+=======
+>>>>>>> Implementation of the new component review-warning
 
 is-windows@^1.0.2:
   version "1.0.2"
@@ -7430,11 +7617,14 @@ lodash.merge@^4.3.0, lodash.merge@^4.3.5, lodash.merge@^4.5.1, lodash.merge@^4.6
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.0.tgz#69884ba144ac33fe699737a6086deffadd0f89c5"
   integrity sha1-aYhLoUSsM/5plzemCG3v+t0PicU=
+<<<<<<< HEAD
 
 lodash.merge@^4.4.0:
   version "4.6.1"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.1.tgz#adc25d9cb99b9391c59624f379fbba60d7111d54"
   integrity sha512-AOYza4+Hf5z1/0Hztxpm2/xiPZgi/cjMqdnKTUWTBSKchJlxXXuUSxCCl8rJlf4g6yww/j6mA8nC8Hw/EZWxKQ==
+=======
+>>>>>>> Implementation of the new component review-warning
 
 lodash.mergewith@^4.6.0:
   version "4.6.0"
@@ -7603,11 +7793,14 @@ lodash@^4.0.0, lodash@^4.14.0, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.3.0, lod
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
   integrity sha1-eCA6TRwyiuHYbcpkYONptX9AVa4=
+<<<<<<< HEAD
 
 lodash@^4.6.1:
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+=======
+>>>>>>> Implementation of the new component review-warning
 
 log-symbols@^2.2.0:
   version "2.2.0"
@@ -8060,10 +8253,17 @@ ms@2.0.0:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
   integrity sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=
 
+<<<<<<< HEAD
 mustache@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/mustache/-/mustache-3.0.0.tgz#3de22dd9ba38152f7355399a953dd4528c403338"
   integrity sha512-bhBDkK/PioIbtQzRIbGUGypvc3MC4c389QnJt8KDIEJ666OidRPoXAQAHPivikfS3JkMEaWoPvcDL7YrQxtSwg==
+=======
+mustache@^2.2.1:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/mustache/-/mustache-2.3.0.tgz#4028f7778b17708a489930a6e52ac3bca0da41d0"
+  integrity sha1-QCj3d4sXcIpImTCm5SrDvKDaQdA=
+>>>>>>> Implementation of the new component review-warning
 
 mute-stream@0.0.6:
   version "0.0.6"
@@ -9324,10 +9524,17 @@ prettier@^1.7.4:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.7.4.tgz#5e8624ae9363c80f95ec644584ecdf55d74f93fa"
   integrity sha1-XoYkrpNjyA+V7GRFhOzfVddPk/o=
 
+<<<<<<< HEAD
 printf@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/printf/-/printf-0.5.1.tgz#e0466788260859ed153006dc6867f09ddf240cf3"
   integrity sha512-UaE/jO0hNsrvPGQEb4LyNzcrJv9Z00tsreBduOSxMtrebvoUhxiEJ4YCHX8YHf6akwfKsC2Gyv5zv47UXhMiLg==
+=======
+printf@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/printf/-/printf-0.3.0.tgz#6918ca5237c047e19cf004b69e6bcfafbef1ce82"
+  integrity sha512-DlJSroT2n9nkh47D4T6BHFQvsMR0L41889ECLmdbzk2BlhN0t31/vl5mHvlWiNBCNQrqG9XfpXwqmJQ2utoYwg==
+>>>>>>> Implementation of the new component review-warning
 
 private@^0.1.6, private@^0.1.7, private@~0.1.5:
   version "0.1.8"
@@ -9382,6 +9589,7 @@ pseudomap@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/pseudomap/-/pseudomap-1.0.2.tgz#f052a28da70e618917ef0a8ac34c1ae5a68286b3"
   integrity sha1-8FKijacOYYkX7wqKw0wa5aaChrM=
+<<<<<<< HEAD
 
 pump@^3.0.0:
   version "3.0.0"
@@ -9390,6 +9598,8 @@ pump@^3.0.0:
   dependencies:
     end-of-stream "^1.1.0"
     once "^1.3.1"
+=======
+>>>>>>> Implementation of the new component review-warning
 
 punycode@^1.4.1:
   version "1.4.1"
@@ -9863,6 +10073,7 @@ requires-port@1.x.x:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
   integrity sha1-kl0mAdOaxIXgkc8NpcbmlNw9yv8=
+<<<<<<< HEAD
 
 resolve-dir@^0.1.0:
   version "0.1.1"
@@ -9871,6 +10082,8 @@ resolve-dir@^0.1.0:
   dependencies:
     expand-tilde "^1.2.2"
     global-modules "^0.2.3"
+=======
+>>>>>>> Implementation of the new component review-warning
 
 resolve-from@^1.0.0:
   version "1.0.1"
@@ -10837,10 +11050,17 @@ temp@0.8.3:
     os-tmpdir "^1.0.0"
     rimraf "~2.2.6"
 
+<<<<<<< HEAD
 testem@^2.0.0:
   version "2.12.0"
   resolved "https://registry.yarnpkg.com/testem/-/testem-2.12.0.tgz#71ed1aa776f52975a274dde4a4dc2d0fe3d35f8e"
   integrity sha512-peJR97Peh2p49FMNKxUiTJidkIXLTFYjemejNU/EkkniEkxp2Y7daYGjcDqLCAJgSRDDuj1GXUsB68AFbt7p8A==
+=======
+testem@^2.2.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/testem/-/testem-2.9.0.tgz#7ce11c11b4eec4192ec3d2ea7eaa216e08c34273"
+  integrity sha512-EwZMRDWLkEhnlCU8vJHLO9iu6mbKGZq61oAHwEffyYfWUwTy7Z8baWjGSwM6mRmUD1y/4Zzs0kMIhd2h+LwDIQ==
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     backbone "^1.1.2"
     bluebird "^3.4.6"
@@ -11318,6 +11538,20 @@ walker@~1.0.5:
   dependencies:
     makeerror "1.0.x"
 
+<<<<<<< HEAD
+=======
+watch-detector@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/watch-detector/-/watch-detector-0.1.0.tgz#e37b410d149e2a8bf263a4f8b71e2f667633dbf8"
+  integrity sha512-vfzMMfpjQc88xjETwl2HuE6PjEuxCBeyC4bQmqrHrofdfYWi/4mEJklYbNgSzpqM9PxubsiPIrE5SZ1FDyiQ2w==
+  dependencies:
+    heimdalljs-logger "^0.1.9"
+    quick-temp "^0.1.8"
+    rsvp "^4.7.0"
+    semver "^5.4.1"
+    silent-error "^1.1.0"
+
+>>>>>>> Implementation of the new component review-warning
 watch@~0.10.0:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/watch/-/watch-0.10.0.tgz#77798b2da0f9910d595f1ace5b0c2258521f21dc"
@@ -11503,10 +11737,17 @@ yallist@^3.0.0, yallist@^3.0.2:
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-3.0.2.tgz#8452b4bb7e83c7c188d8041c1a837c773d6d8bb9"
   integrity sha1-hFK0u36Dx8GI2AQcGoN8dz1ti7k=
 
+<<<<<<< HEAD
 yam@0.0.22:
   version "0.0.22"
   resolved "https://registry.yarnpkg.com/yam/-/yam-0.0.22.tgz#38a76cb79a19284d9206ed49031e359a1340bd06"
   integrity sha1-OKdst5oZKE2SBu1JAx41mhNAvQY=
+=======
+yam@^0.0.24:
+  version "0.0.24"
+  resolved "https://registry.yarnpkg.com/yam/-/yam-0.0.24.tgz#11e9630444735f66a561d29221407de6d037cd95"
+  integrity sha512-llPF60oFLV8EQimNPR6+KorSaj59L32C4c1db4cr72GaWVWapnhTS2VZeK2K2xLyEOveWtRcNa+dLJBW7EfhYQ==
+>>>>>>> Implementation of the new component review-warning
   dependencies:
     fs-extra "^0.30.0"
     lodash.merge "^4.4.0"
